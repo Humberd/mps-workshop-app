@@ -8,6 +8,7 @@ import java.util.Collection;
 import jetbrains.mps.openapi.editor.descriptor.ConceptEditor;
 import org.jetbrains.mps.openapi.language.SAbstractConcept;
 import java.util.Collections;
+import jetbrains.mps.openapi.editor.descriptor.TransformationMenu;
 import jetbrains.mps.openapi.editor.descriptor.SubstituteMenu;
 import jetbrains.mps.lang.smodel.ConceptSwitchIndex;
 import jetbrains.mps.lang.smodel.ConceptSwitchIndexBuilder;
@@ -36,9 +37,20 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
 
   @NotNull
   @Override
-  public Collection<SubstituteMenu> getDeclaredDefaultSubstituteMenus(SAbstractConcept concept) {
+  public Collection<TransformationMenu> getDeclaredDefaultTransformationMenus(SAbstractConcept concept) {
     SAbstractConcept cncpt = concept;
     switch (conceptIndex1.index(cncpt)) {
+      case 0:
+        return Collections.<TransformationMenu>singletonList(new Project_Component_TransformationMenu());
+      default:
+    }
+    return Collections.<TransformationMenu>emptyList();
+  }
+  @NotNull
+  @Override
+  public Collection<SubstituteMenu> getDeclaredDefaultSubstituteMenus(SAbstractConcept concept) {
+    SAbstractConcept cncpt = concept;
+    switch (conceptIndex2.index(cncpt)) {
       case 0:
         return Collections.<SubstituteMenu>singletonList(new Project_Component_SubstituteMenu());
       default:
@@ -48,4 +60,5 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
 
   private static final ConceptSwitchIndex conceptIndex = new ConceptSwitchIndexBuilder().put(MetaIdFactory.conceptId(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6b778c4L), MetaIdFactory.conceptId(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba1033L), MetaIdFactory.conceptId(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba102eL), MetaIdFactory.conceptId(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba102aL), MetaIdFactory.conceptId(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6b778d2L)).seal();
   private static final ConceptSwitchIndex conceptIndex1 = new ConceptSwitchIndexBuilder().put(MetaIdFactory.conceptId(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba102eL)).seal();
+  private static final ConceptSwitchIndex conceptIndex2 = new ConceptSwitchIndexBuilder().put(MetaIdFactory.conceptId(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba102eL)).seal();
 }
