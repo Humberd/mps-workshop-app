@@ -140,7 +140,7 @@
       <ref role="2kMbd$" node="59MCPn6I8r2" resolve="Bolt A2" />
     </node>
     <node concept="2kMbdV" id="59MCPn6J5Ip" role="2kMbdJ">
-      <property role="2kMbdU" value="1" />
+      <property role="2kMbdU" value="2" />
       <ref role="2kMbd$" node="59MCPn6I8qX" resolve="Plank" />
     </node>
     <node concept="2kMbdV" id="59MCPn6J5It" role="2kMbdJ">

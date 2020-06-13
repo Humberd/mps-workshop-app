@@ -11,6 +11,7 @@ import org.jetbrains.mps.openapi.persistence.PersistenceFacade;
 import main.QueriesGenerated;
 import java.util.Collection;
 import org.jetbrains.mps.openapi.language.SLanguage;
+import jetbrains.mps.smodel.adapter.structure.MetaAdapterFactory;
 import java.util.Arrays;
 
 public class Generator extends TemplateModuleInterpreted2 {
@@ -33,7 +34,10 @@ public class Generator extends TemplateModuleInterpreted2 {
 
   @Override
   public Collection<SLanguage> getTargetLanguages() {
-    SLanguage[] rv = new SLanguage[0];
+    SLanguage[] rv = new SLanguage[3];
+    rv[0] = MetaAdapterFactory.getLanguage(0xb38e874f4c8f43a4L, 0x92d8990b98e3c7abL, "CSS");
+    rv[1] = MetaAdapterFactory.getLanguage(0xce78ae2cdb1f49adL, 0xbab2413b7d7689f5L, "HTML");
+    rv[2] = MetaAdapterFactory.getLanguage(0x479c7a8c02f943b5L, 0x9139d910cb22f298L, "jetbrains.mps.core.xml");
     return Arrays.asList(rv);
   }
 
