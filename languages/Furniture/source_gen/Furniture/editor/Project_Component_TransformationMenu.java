@@ -187,13 +187,14 @@ public class Project_Component_TransformationMenu extends TransformationMenuBase
 
         @Override
         public void execute(@NotNull String pattern) {
-          if (SPropertyOperations.getInteger(_context.getNode(), PROPS.quantity$eYK0) == 0) {
-            return;
-          }
           BLOperations.minusAssign(SPropertyOperations.intPropRef(_context.getNode(), PROPS.quantity$eYK0), 1);
           _context.getEditorContext().getEditorComponent().update();
         }
 
+        @Override
+        public boolean canExecute(@NotNull String pattern) {
+          return SPropertyOperations.getInteger(_context.getNode(), PROPS.quantity$eYK0) > 0;
+        }
 
         @Override
         public IconResource getIcon() {
