@@ -21,6 +21,9 @@
       <concept id="1082978164218" name="jetbrains.mps.lang.structure.structure.DataTypeDeclaration" flags="ng" index="AxPO6">
         <property id="7791109065626895363" name="datatypeId" index="3F6X1D" />
       </concept>
+      <concept id="1082978499127" name="jetbrains.mps.lang.structure.structure.ConstrainedDataTypeDeclaration" flags="ng" index="Az7Fb">
+        <property id="1083066089218" name="constraint" index="FLfZY" />
+      </concept>
       <concept id="1169125787135" name="jetbrains.mps.lang.structure.structure.AbstractConceptDeclaration" flags="ig" index="PkWjJ">
         <property id="6714410169261853888" name="conceptId" index="EcuMT" />
         <property id="5092175715804935370" name="conceptAlias" index="34LRSv" />
@@ -114,6 +117,70 @@
     </node>
     <node concept="1TJgyj" id="59MCPn6HRzl" role="1TKVEi">
       <property role="IQ2ns" value="5940990447256565973" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="components" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="59MCPn6HRz4" resolve="Component" />
+    </node>
+  </node>
+  <node concept="Az7Fb" id="59MCPn6IwGt">
+    <property role="3F6X1D" value="5940990447256734493" />
+    <property role="TrG5h" value="Code_Name" />
+    <property role="FLfZY" value="[@|#][A-Z][0-9][0-9][0-9]" />
+    <property role="3GE5qa" value="Garage" />
+  </node>
+  <node concept="1TIwiD" id="59MCPn6Ix0E">
+    <property role="EcuMT" value="5940990447256735786" />
+    <property role="3GE5qa" value="Garage" />
+    <property role="TrG5h" value="Text_Line" />
+    <property role="34LRSv" value="Text Line" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyi" id="59MCPn6Ix0F" role="1TKVEl">
+      <property role="IQ2nx" value="5940990447256735787" />
+      <property role="TrG5h" value="text" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="59MCPn6Ix0I">
+    <property role="EcuMT" value="5940990447256735790" />
+    <property role="3GE5qa" value="Garage" />
+    <property role="TrG5h" value="Project_Component" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyi" id="59MCPn6Ix0J" role="1TKVEl">
+      <property role="IQ2nx" value="5940990447256735791" />
+      <property role="TrG5h" value="quantity" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyj" id="59MCPn6Ix0L" role="1TKVEi">
+      <property role="IQ2ns" value="5940990447256735793" />
+      <property role="20kJfa" value="component" />
+      <property role="20lbJX" value="fLJekj4/_1" />
+      <ref role="20lvS9" node="59MCPn6HRz4" resolve="Component" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="59MCPn6Ix0N">
+    <property role="EcuMT" value="5940990447256735795" />
+    <property role="3GE5qa" value="Garage" />
+    <property role="TrG5h" value="Garage_Project" />
+    <property role="19KtqR" value="true" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="PrWs8" id="59MCPn6Ix0O" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+    <node concept="1TJgyi" id="59MCPn6Ix0Q" role="1TKVEl">
+      <property role="IQ2nx" value="5940990447256735798" />
+      <property role="TrG5h" value="code" />
+      <ref role="AX2Wp" node="59MCPn6IwGt" resolve="Code_Name" />
+    </node>
+    <node concept="1TJgyj" id="59MCPn6Ix0S" role="1TKVEi">
+      <property role="IQ2ns" value="5940990447256735800" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="description" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="59MCPn6Ix0E" resolve="Text_Line" />
+    </node>
+    <node concept="1TJgyj" id="59MCPn6Ix0U" role="1TKVEi">
+      <property role="IQ2ns" value="5940990447256735802" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
       <property role="20kJfa" value="components" />
       <property role="20lbJX" value="fLJekj5/_0__n" />

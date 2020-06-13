@@ -12,7 +12,14 @@
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/5351203823916750322:jetbrains.mps.baseLanguage.structure.TryUniversalStatement" />
   <root>
     <file name="EditorAspectDescriptorImpl.java">
-      <unit at="15,0,33,0" name="Furniture.editor.EditorAspectDescriptorImpl" />
+      <unit at="16,0,46,0" name="Furniture.editor.EditorAspectDescriptorImpl" />
+    </file>
+    <file name="Project_Component_SubstituteMenu.java">
+      <unit at="90,0,93,0" name="Furniture.editor.Project_Component_SubstituteMenu$CONCEPTS" />
+      <unit at="94,0,97,0" name="Furniture.editor.Project_Component_SubstituteMenu$LINKS" />
+      <unit at="49,0,68,0" name="Furniture.editor.Project_Component_SubstituteMenu$SMP_ReferenceScope_fnwasw_a" />
+      <unit at="68,0,89,0" name="Furniture.editor.Project_Component_SubstituteMenu$SMP_Subconcepts_fnwasw_b" />
+      <unit at="26,0,98,0" name="Furniture.editor.Project_Component_SubstituteMenu" />
     </file>
   </root>
   <root nodeRef="r:4821b25f-31a5-41f2-9a73-44c48ab69b1f(Furniture.editor)/5940990447256573357">

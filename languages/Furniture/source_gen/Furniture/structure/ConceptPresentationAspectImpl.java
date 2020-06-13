@@ -10,6 +10,9 @@ import jetbrains.mps.smodel.runtime.ConceptPresentationBuilder;
 
 public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase {
   private ConceptPresentation props_Component;
+  private ConceptPresentation props_Garage_Project;
+  private ConceptPresentation props_Project_Component;
+  private ConceptPresentation props_Text_Line;
   private ConceptPresentation props_Warehouse;
 
   @Override
@@ -24,6 +27,27 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
           props_Component = cpb.create();
         }
         return props_Component;
+      case LanguageConceptSwitch.Garage_Project:
+        if (props_Garage_Project == null) {
+          ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
+          cpb.presentationByName();
+          props_Garage_Project = cpb.create();
+        }
+        return props_Garage_Project;
+      case LanguageConceptSwitch.Project_Component:
+        if (props_Project_Component == null) {
+          ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
+          cpb.presentationByReference(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba102eL, 0x5272a355c6ba1031L, "component", "", "");
+          props_Project_Component = cpb.create();
+        }
+        return props_Project_Component;
+      case LanguageConceptSwitch.Text_Line:
+        if (props_Text_Line == null) {
+          ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
+          cpb.rawPresentation("Text Line");
+          props_Text_Line = cpb.create();
+        }
+        return props_Text_Line;
       case LanguageConceptSwitch.Warehouse:
         if (props_Warehouse == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
