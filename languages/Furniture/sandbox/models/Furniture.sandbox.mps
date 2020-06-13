@@ -36,6 +36,18 @@
         <property id="5940990447256565959" name="material" index="2kLtIi" />
         <property id="5940990447256565961" name="price" index="2kLtIs" />
       </concept>
+      <concept id="5940990447256735795" name="Furniture.structure.Garage_Project" flags="ng" index="2kMbdA">
+        <property id="5940990447256735798" name="code" index="2kMbdz" />
+        <child id="5940990447256735800" name="description" index="2kMbdH" />
+        <child id="5940990447256735802" name="components" index="2kMbdJ" />
+      </concept>
+      <concept id="5940990447256735790" name="Furniture.structure.Project_Component" flags="ng" index="2kMbdV">
+        <property id="5940990447256735791" name="quantity" index="2kMbdU" />
+        <reference id="5940990447256735793" name="component" index="2kMbd$" />
+      </concept>
+      <concept id="5940990447256735786" name="Furniture.structure.Text_Line" flags="ng" index="2kMbdZ">
+        <property id="5940990447256735787" name="text" index="2kMbdY" />
+      </concept>
     </language>
     <language id="ce78ae2c-db1f-49ad-bab2-413b7d7689f5" name="HTML">
       <concept id="1870710646447143775" name="HTML.structure.HtmlFile" flags="ng" index="3YWY8O">
@@ -43,6 +55,9 @@
       </concept>
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
+      <concept id="1133920641626" name="jetbrains.mps.lang.core.structure.BaseConcept" flags="ng" index="2VYdi">
+        <property id="1193676396447" name="virtualPackage" index="3GE5qa" />
+      </concept>
       <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
         <property id="1169194664001" name="name" index="TrG5h" />
       </concept>
@@ -101,9 +116,36 @@
       <property role="2kLtIs" value="12" />
     </node>
     <node concept="2kLtIh" id="59MCPn6IwyS" role="2kLtI0">
-      <property role="TrG5h" value="Allen ket" />
+      <property role="TrG5h" value="Allen key" />
       <property role="2kLtIi" value="59MCPn6HRyC/Oak" />
       <property role="2kLtIs" value="1" />
+    </node>
+  </node>
+  <node concept="2kMbdA" id="59MCPn6IDGW">
+    <property role="TrG5h" value=" NORRÅSEN" />
+    <property role="2kMbdz" value="#A123" />
+    <property role="3GE5qa" value="Projects" />
+    <node concept="2kMbdZ" id="59MCPn6INVp" role="2kMbdH">
+      <property role="2kMbdY" value="A solid desk made of raw materials." />
+    </node>
+    <node concept="2kMbdZ" id="59MCPn6JxXm" role="2kMbdH">
+      <property role="2kMbdY" value="Perfect choice for daily use in office." />
+    </node>
+    <node concept="2kMbdV" id="59MCPn6IOo4" role="2kMbdJ">
+      <property role="2kMbdU" value="2" />
+      <ref role="2kMbd$" node="59MCPn6I8qZ" resolve="Bolt A1" />
+    </node>
+    <node concept="2kMbdV" id="59MCPn6J5Im" role="2kMbdJ">
+      <property role="2kMbdU" value="1" />
+      <ref role="2kMbd$" node="59MCPn6I8r2" resolve="Bolt A2" />
+    </node>
+    <node concept="2kMbdV" id="59MCPn6J5Ip" role="2kMbdJ">
+      <property role="2kMbdU" value="1" />
+      <ref role="2kMbd$" node="59MCPn6I8qX" resolve="Plank" />
+    </node>
+    <node concept="2kMbdV" id="59MCPn6J5It" role="2kMbdJ">
+      <property role="2kMbdU" value="1" />
+      <ref role="2kMbd$" node="59MCPn6IwyS" resolve="Allen key" />
     </node>
   </node>
 </model>

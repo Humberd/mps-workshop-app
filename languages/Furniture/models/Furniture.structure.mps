@@ -184,7 +184,7 @@
       <property role="20lmBu" value="fLJjDmT/aggregation" />
       <property role="20kJfa" value="components" />
       <property role="20lbJX" value="fLJekj5/_0__n" />
-      <ref role="20lvS9" node="59MCPn6HRz4" resolve="Component" />
+      <ref role="20lvS9" node="59MCPn6Ix0I" resolve="Project_Component" />
     </node>
   </node>
 </model>

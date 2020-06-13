@@ -89,7 +89,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.version(2);
     b.property("code", 0x5272a355c6ba1036L).type(MetaIdFactory.dataTypeId(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba0b1dL)).origin("5940990447256735798").done();
     b.aggregate("description", 0x5272a355c6ba1038L).target(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba102aL).optional(true).ordered(true).multiple(true).origin("5940990447256735800").done();
-    b.aggregate("components", 0x5272a355c6ba103aL).target(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6b778c4L).optional(true).ordered(true).multiple(true).origin("5940990447256735802").done();
+    b.aggregate("components", 0x5272a355c6ba103aL).target(0x34ef3d3158464526L, 0xae0c0b6af6b7afd7L, 0x5272a355c6ba102eL).optional(true).ordered(true).multiple(true).origin("5940990447256735802").done();
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForProject_Component() {
