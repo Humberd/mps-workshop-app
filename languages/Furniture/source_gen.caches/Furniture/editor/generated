@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<product version="3" modelHash="2j8gc35dneymrwtjmj8p0kqv3fbng6v" />
+<product version="3" modelHash="-dfsxdox9ti936bfsfjcq8h2ca3qdovz">
+  <files names="Component_Editor.java:Component_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:Warehouse_Editor.java:Warehouse_EditorBuilder_a.java" />
+</product>
 

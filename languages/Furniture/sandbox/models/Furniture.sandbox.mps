@@ -28,6 +28,15 @@
         <child id="6666499814681299060" name="prolog" index="2pNm8Q" />
       </concept>
     </language>
+    <language id="34ef3d31-5846-4526-ae0c-0b6af6b7afd7" name="Furniture">
+      <concept id="5940990447256565970" name="Furniture.structure.Warehouse" flags="ng" index="2kLtI7">
+        <child id="5940990447256565973" name="components" index="2kLtI0" />
+      </concept>
+      <concept id="5940990447256565956" name="Furniture.structure.Component" flags="ng" index="2kLtIh">
+        <property id="5940990447256565959" name="material" index="2kLtIi" />
+        <property id="5940990447256565961" name="price" index="2kLtIs" />
+      </concept>
+    </language>
     <language id="ce78ae2c-db1f-49ad-bab2-413b7d7689f5" name="HTML">
       <concept id="1870710646447143775" name="HTML.structure.HtmlFile" flags="ng" index="3YWY8O">
         <child id="1870710646447143778" name="document" index="3YWY89" />
@@ -65,6 +74,36 @@
           <property role="29q25t" value="html" />
         </node>
       </node>
+    </node>
+  </node>
+  <node concept="2kLtI7" id="59MCPn6HTnW">
+    <property role="TrG5h" value="My Warehouse" />
+    <node concept="2kLtIh" id="59MCPn6I8qX" role="2kLtI0">
+      <property role="TrG5h" value="Plank" />
+      <property role="2kLtIi" value="59MCPn6HRyz/Maple" />
+      <property role="2kLtIs" value="40" />
+    </node>
+    <node concept="2kLtIh" id="59MCPn6I8qZ" role="2kLtI0">
+      <property role="TrG5h" value="Bolt A1" />
+      <property role="2kLtIs" value="2" />
+    </node>
+    <node concept="2kLtIh" id="59MCPn6I8r2" role="2kLtI0">
+      <property role="TrG5h" value="Bolt A2" />
+      <property role="2kLtIs" value="3" />
+    </node>
+    <node concept="2kLtIh" id="59MCPn6IwyH" role="2kLtI0">
+      <property role="TrG5h" value="Bolt A3" />
+      <property role="2kLtIs" value="3" />
+    </node>
+    <node concept="2kLtIh" id="59MCPn6IwyM" role="2kLtI0">
+      <property role="TrG5h" value="Hammer" />
+      <property role="2kLtIi" value="59MCPn6HRyL/Iron" />
+      <property role="2kLtIs" value="12" />
+    </node>
+    <node concept="2kLtIh" id="59MCPn6IwyS" role="2kLtI0">
+      <property role="TrG5h" value="Allen ket" />
+      <property role="2kLtIi" value="59MCPn6HRyC/Oak" />
+      <property role="2kLtIs" value="1" />
     </node>
   </node>
 </model>
