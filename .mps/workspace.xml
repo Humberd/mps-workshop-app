@@ -19,17 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702972dd-4200-4923-a231-1604b7442b60" name="Default Changelist" comment="Moved condition check to a separate method">
+    <list default="true" id="702972dd-4200-4923-a231-1604b7442b60" name="Default Changelist" comment="Done things from tutorial">
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/Furniture.mpl" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/Furniture.mpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/Project_Component_TransformationMenu$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/Project_Component_TransformationMenu$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/Project_Component_TransformationMenu$TMP_SubMenu_y47kfc_a0$TMP_Action_y47kfc_a0a$Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/Project_Component_TransformationMenu$TMP_SubMenu_y47kfc_a0$TMP_Action_y47kfc_a0a$Item.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/Project_Component_TransformationMenu$TMP_SubMenu_y47kfc_a0$TMP_Action_y47kfc_b0a$Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/Project_Component_TransformationMenu$TMP_SubMenu_y47kfc_a0$TMP_Action_y47kfc_b0a$Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/classes_gen/main/QueriesGenerated$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/classes_gen/main/QueriesGenerated$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/classes_gen/main/QueriesGenerated$PVQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/classes_gen/main/QueriesGenerated$PVQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/classes_gen/main/QueriesGenerated.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/classes_gen/main/QueriesGenerated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/classes_gen/main/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/classes_gen/main/trace.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/source_gen.caches/Furniture/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/source_gen.caches/Furniture/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/source_gen.caches/main/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/source_gen.caches/main/dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/source_gen.caches/main/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/source_gen.caches/main/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/source_gen/main/QueriesGenerated.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/source_gen/main/QueriesGenerated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/source_gen/main/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/source_gen/main/trace.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/Furniture/generator/templates/main@generator.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/generator/templates/main@generator.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/models/Furniture.editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/models/Furniture.editor.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/Furniture/sandbox/models/Furniture.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/sandbox/models/Furniture.sandbox.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/sandbox/source_gen.caches/Furniture/sandbox/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/sandbox/source_gen.caches/Furniture/sandbox/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/sandbox/source_gen/Furniture/sandbox/ NORRÅSEN/ NORRÅSEN.html" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/sandbox/source_gen/Furniture/sandbox/ NORRÅSEN/ NORRÅSEN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/editor/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/editor/generated" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/Project_Component_TransformationMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/Project_Component_TransformationMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/trace.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,58 +215,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Furniture" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:77ee5d9c-ab68-493a-b06d-85153e26904b(Furniture.sandbox) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/sandbox/models/Furniture.sandbox.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Garage" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -274,7 +233,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ce78ae2c-db1f-49ad-bab2-413b7d7689f5(HTML)" />
+              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -309,10 +268,6 @@
               <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Furniture#01" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -324,29 +279,11 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="r:c036c450-6196-458d-adfd-d1d0fb296ff0(Furniture.behavior) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.behavior.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Furniture#01" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:491d57d4-6406-4c4e-bcbd-63f81d6e4bb7(main@generator) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/generator/templates/main@generator.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1870710646447131886" />
+              <option name="myItemId" value="Garage" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -361,16 +298,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Furniture" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -402,15 +329,33 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ce78ae2c-db1f-49ad-bab2-413b7d7689f5(HTML)" />
+              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:285fe51d-79ff-449d-8183-6d66216fc2ce(HTML.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/HTML/models/HTML.structure.mps]" />
+              <option name="myItemId" value="Furniture#01" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <SELECTED>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Furniture" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:77ee5d9c-ab68-493a-b06d-85153e26904b(Furniture.sandbox) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/sandbox/models/Furniture.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
@@ -420,19 +365,71 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Furniture#01" />
+              <option name="myItemId" value="r:c036c450-6196-458d-adfd-d1d0fb296ff0(Furniture.behavior) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.behavior.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:491d57d4-6406-4c4e-bcbd-63f81d6e4bb7(main@generator) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/generator/templates/main@generator.mps]" />
+              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1870710646447131886" />
+              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="177149174882301436" />
+              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Garage" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <SELECTED>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Furniture" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:77ee5d9c-ab68-493a-b06d-85153e26904b(Furniture.sandbox) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/sandbox/models/Furniture.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projects" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5940990447256771388" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -451,8 +448,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Elementary_course-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="Tests in 'main@generator'" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
@@ -628,7 +625,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592075093645</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Done things from tutorial">
+      <created>1592076646425</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592076646425</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Done things from tutorial">
+      <created>1592076658058</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1592076658058</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="UsagesViewTool">
@@ -669,27 +680,32 @@
     <MESSAGE value="Added project methods" />
     <MESSAGE value="Added context actions menu" />
     <MESSAGE value="Moved condition check to a separate method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved condition check to a separate method" />
+    <MESSAGE value="Done things from tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done things from tutorial" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2286" y="129" width="712" height="614" key="#MPSPropertiesConfigurable" timestamp="1592075621924">
+    <state x="2286" y="129" width="712" height="614" key="#MPSPropertiesConfigurable" timestamp="1592077619581">
       <screen x="1920" y="0" width="2048" height="1120" />
     </state>
-    <state x="2286" y="129" width="712" height="614" key="#MPSPropertiesConfigurable/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592075621924" />
+    <state x="2286" y="129" width="712" height="614" key="#MPSPropertiesConfigurable/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592077619581" />
     <state x="2286" y="128" width="712" height="614" key="#MPSPropertiesConfigurable/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592073773587" />
+    <state x="2659" y="125" key="#Tests_in_'main@generator'" timestamp="1592076583650">
+      <screen x="1920" y="0" width="2048" height="1120" />
+    </state>
+    <state x="2659" y="125" key="#Tests_in_'main@generator'/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592076583650" />
     <state x="2767" y="495" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog" timestamp="1592050435442">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
     <state x="2767" y="495" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592050435442" />
-    <state x="2065" y="71" width="970" height="833" key="CommitChangelistDialog2" timestamp="1592075138337">
+    <state x="2065" y="71" width="970" height="833" key="CommitChangelistDialog2" timestamp="1592078499056">
       <screen x="1920" y="0" width="2048" height="1120" />
     </state>
-    <state x="2065" y="71" key="CommitChangelistDialog2/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592075138337" />
+    <state x="2065" y="71" key="CommitChangelistDialog2/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592078499056" />
     <state x="2065" y="70" width="970" height="833" key="CommitChangelistDialog2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592073402073" />
-    <state x="2724" y="319" key="FileChooserDialogImpl" timestamp="1592075293824">
+    <state x="2724" y="319" key="FileChooserDialogImpl" timestamp="1592076902002">
       <screen x="1920" y="0" width="2048" height="1120" />
     </state>
-    <state x="2724" y="319" key="FileChooserDialogImpl/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592075293824" />
+    <state x="2724" y="319" key="FileChooserDialogImpl/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592076902002" />
     <state x="2769" y="496" key="Github.CreateGistDialog" timestamp="1592052394839">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
@@ -699,15 +715,15 @@
     </state>
     <state x="2525" y="301" key="IDE.errors.dialog/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592075169175" />
     <state x="2525" y="299" key="IDE.errors.dialog/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592063392113" />
-    <state x="2453" y="223" key="SettingsEditor" timestamp="1592075298191">
+    <state x="2453" y="223" key="SettingsEditor" timestamp="1592079082197">
       <screen x="1920" y="0" width="2048" height="1120" />
     </state>
-    <state x="2453" y="223" key="SettingsEditor/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592075298191" />
+    <state x="2453" y="223" key="SettingsEditor/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592079082197" />
     <state x="2453" y="221" key="SettingsEditor/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592074474245" />
-    <state x="2537" y="311" key="Vcs.Push.Dialog.v2" timestamp="1592075095892">
+    <state x="2537" y="311" key="Vcs.Push.Dialog.v2" timestamp="1592076660521">
       <screen x="1920" y="0" width="2048" height="1120" />
     </state>
-    <state x="2537" y="311" key="Vcs.Push.Dialog.v2/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592075095892" />
+    <state x="2537" y="311" key="Vcs.Push.Dialog.v2/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1592076660521" />
     <state x="2537" y="309" key="Vcs.Push.Dialog.v2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592073407713" />
     <state x="2550" y="236" key="jetbrains.mps.ide.blame.dialog.BlameDialog" timestamp="1592063347701">
       <screen x="1920" y="0" width="2048" height="1112" />

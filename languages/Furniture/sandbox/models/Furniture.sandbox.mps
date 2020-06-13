@@ -122,7 +122,7 @@
     </node>
   </node>
   <node concept="2kMbdA" id="59MCPn6IDGW">
-    <property role="TrG5h" value=" NORRÅSEN" />
+    <property role="TrG5h" value="NORRÅSEN" />
     <property role="2kMbdz" value="#A123" />
     <property role="3GE5qa" value="Projects" />
     <node concept="2kMbdZ" id="59MCPn6INVp" role="2kMbdH">

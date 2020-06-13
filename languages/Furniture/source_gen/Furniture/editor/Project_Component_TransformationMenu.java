@@ -24,9 +24,9 @@ import org.apache.log4j.Logger;
 import jetbrains.mps.openapi.editor.menus.transformation.ActionItemBase;
 import jetbrains.mps.editor.contextActionsTool.lang.menus.runtime.SidebarActionItem;
 import jetbrains.mps.openapi.editor.menus.EditorMenuTraceInfo;
-import jetbrains.mps.references.BLOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.smodel.runtime.IconResource;
+import jetbrains.mps.references.BLOperations;
 import org.jetbrains.mps.openapi.language.SProperty;
 import jetbrains.mps.smodel.adapter.structure.MetaAdapterFactory;
 
@@ -126,7 +126,7 @@ public class Project_Component_TransformationMenu extends TransformationMenuBase
 
         @Override
         public void execute(@NotNull String pattern) {
-          BLOperations.plusAssign(SPropertyOperations.intPropRef(_context.getNode(), PROPS.quantity$eYK0), 1);
+          SPropertyOperations.assign(_context.getNode(), PROPS.quantity$eYK0, SPropertyOperations.getInteger(_context.getNode(), PROPS.quantity$eYK0) + 1);
           _context.getEditorContext().getEditorComponent().update();
         }
 
@@ -187,7 +187,7 @@ public class Project_Component_TransformationMenu extends TransformationMenuBase
 
         @Override
         public void execute(@NotNull String pattern) {
-          BLOperations.minusAssign(SPropertyOperations.intPropRef(_context.getNode(), PROPS.quantity$eYK0), 1);
+          BLOperations.minusAssign(SPropertyOperations.intPropRef(_context.getNode(), PROPS.quantity$eYK0), SPropertyOperations.getInteger(_context.getNode(), PROPS.quantity$eYK0) - 1);
           _context.getEditorContext().getEditorComponent().update();
         }
 
