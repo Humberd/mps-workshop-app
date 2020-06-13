@@ -19,31 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702972dd-4200-4923-a231-1604b7442b60" name="Default Changelist" comment="Added warehouse concepts">
-      <change afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/Component_Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/Component_EditorBuilder_a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/EditorAspectDescriptorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/Warehouse_Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/Warehouse_EditorBuilder_a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/Language.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/Language.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/editor/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/structure/ConceptPresentationAspectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/structure/LanguageConceptSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/structure/LanguageConceptSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/structure/StructureAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/structure/StructureAspectDescriptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/classes_gen/Furniture/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/models/Furniture.editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/models/Furniture.editor.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/sandbox/models/Furniture.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/sandbox/models/Furniture.sandbox.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/sandbox/source_gen.caches/Furniture/sandbox/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/sandbox/source_gen.caches/Furniture/sandbox/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/editor/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/editor/dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/editor/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/editor/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen.caches/Furniture/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/Language.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/editor/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/source_gen/Furniture/trace.info" afterDir="false" />
-    </list>
+    <list default="true" id="702972dd-4200-4923-a231-1604b7442b60" name="Default Changelist" comment="Added warehouse-related editors" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,46 +183,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Furniture" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -265,15 +201,21 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Furniture" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Warehouse" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,6 +252,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="5940990447256573436" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Warehouse" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -412,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592054547154</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added warehouse-related editors">
+      <created>1592055441907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592055441907</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UsagesViewTool">
@@ -439,7 +422,8 @@
     <MESSAGE value="Save commit" />
     <MESSAGE value="Updated myfile" />
     <MESSAGE value="Added warehouse concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added warehouse concepts" />
+    <MESSAGE value="Added warehouse-related editors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added warehouse-related editors" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2286" y="128" width="712" height="614" key="#MPSPropertiesConfigurable" timestamp="1592052042557">
@@ -458,14 +442,14 @@
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
     <state x="2769" y="496" key="Github.CreateGistDialog/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592052394839" />
-    <state x="2453" y="221" key="SettingsEditor" timestamp="1592055407219">
+    <state x="2453" y="221" key="SettingsEditor" timestamp="1592055460995">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state x="2453" y="221" key="SettingsEditor/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592055407219" />
-    <state x="2537" y="309" key="Vcs.Push.Dialog.v2" timestamp="1592055380017">
+    <state x="2453" y="221" key="SettingsEditor/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592055460995" />
+    <state x="2537" y="309" key="Vcs.Push.Dialog.v2" timestamp="1592055444352">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state x="2537" y="309" key="Vcs.Push.Dialog.v2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592055380017" />
+    <state x="2537" y="309" key="Vcs.Push.Dialog.v2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592055444352" />
     <state x="2835" y="460" key="jetbrains.mps.ide.editor.actions.HintsDialog" timestamp="1592054706149">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
