@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="702972dd-4200-4923-a231-1604b7442b60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/Furniture/models/Furniture.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/models/Furniture.structure.mps" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,10 +171,6 @@
               <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Furniture" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -181,11 +178,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ce78ae2c-db1f-49ad-bab2-413b7d7689f5(HTML)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:285fe51d-79ff-449d-8183-6d66216fc2ce(HTML.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/HTML/models/HTML.structure.mps]" />
+              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -198,10 +191,8 @@
               <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="Furniture" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,8 +219,36 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ce78ae2c-db1f-49ad-bab2-413b7d7689f5(HTML)" />
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Warehouse" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,19 +258,15 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
+              <option name="myItemId" value="34ef3d31-5846-4526-ae0c-0b6af6b7afd7(Furniture)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Furniture" />
+              <option name="myItemId" value="r:ee1d3842-8e0e-405d-8acf-89b18383bdd9(Furniture.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/models/Furniture.structure.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:77ee5d9c-ab68-493a-b06d-85153e26904b(Furniture.sandbox) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/Furniture/sandbox/models/Furniture.sandbox.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1870710646447153118" />
+              <option name="myItemId" value="Warehouse" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -318,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592052420161</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated myfile">
+      <created>1592053957833</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592053957834</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UsagesViewTool">
@@ -332,7 +354,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added HTML lang" />
     <MESSAGE value="Save commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Save commit" />
+    <MESSAGE value="Updated myfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated myfile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2286" y="128" width="712" height="614" key="#MPSPropertiesConfigurable" timestamp="1592052042557">
@@ -343,10 +366,10 @@
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
     <state x="2767" y="495" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592050435442" />
-    <state x="2318" y="34" width="970" height="991" key="CommitChangelistDialog2" timestamp="1592052419352">
+    <state x="2318" y="34" width="970" height="991" key="CommitChangelistDialog2" timestamp="1592053957262">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state x="2318" y="34" width="970" height="991" key="CommitChangelistDialog2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592052419352" />
+    <state x="2318" y="34" width="970" height="991" key="CommitChangelistDialog2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592053957262" />
     <state x="2769" y="496" key="Github.CreateGistDialog" timestamp="1592052394839">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
@@ -355,10 +378,10 @@
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
     <state x="2453" y="221" key="SettingsEditor/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592053677890" />
-    <state x="2537" y="309" key="Vcs.Push.Dialog.v2" timestamp="1592053344212">
+    <state x="2537" y="309" key="Vcs.Push.Dialog.v2" timestamp="1592053985665">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state x="2537" y="309" key="Vcs.Push.Dialog.v2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592053344212" />
+    <state x="2537" y="309" key="Vcs.Push.Dialog.v2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592053985665" />
     <state x="2456" y="257" key="jetbrains.mps.ide.ui.dialogs.properties.choosers.ChooserDialog" timestamp="1592052031065">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
