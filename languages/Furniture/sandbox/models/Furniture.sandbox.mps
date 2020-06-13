@@ -44,7 +44,6 @@
     <node concept="3rIKKV" id="1BQ6mJB1xZv" role="3YWY89">
       <node concept="2pNNFK" id="1BQ6mJB1xZ_" role="2pNm8H">
         <property role="2pNNFO" value="html" />
-        <node concept="3o6iSG" id="1BQ6mJB1xZB" role="3o6s8t" />
         <node concept="2pNNFK" id="1BQ6mJB1xZQ" role="3o6s8t">
           <property role="2pNNFO" value="head" />
           <node concept="2pNNFK" id="1BQ6mJB1xZZ" role="3o6s8t">
@@ -60,7 +59,6 @@
             <property role="3o6i5n" value="body" />
           </node>
         </node>
-        <node concept="3o6iSG" id="1BQ6mJB1xZM" role="3o6s8t" />
       </node>
       <node concept="2pNm8N" id="1BQ6mJB1xZx" role="2pNm8Q">
         <node concept="29q25o" id="1BQ6mJB1xZz" role="BGLLu">

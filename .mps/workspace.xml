@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="702972dd-4200-4923-a231-1604b7442b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/languages/HTML/models/HTML.textGen.mps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/textGen/dependencies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/textGen/generated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/editor/EditorAspectDescriptorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/editor/HtmlFile_Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/editor/HtmlFile_EditorBuilder_a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/textGen/HtmlFile_TextGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/textGen/TextGenAspectDescriptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/textGen/aspectcps-descriptorclasses.mps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/textGen/checkpoints" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/textGen/trace.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/sandbox/Furniture.sandbox.msd" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/sandbox/Furniture.sandbox.msd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/sandbox/models/Furniture.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/sandbox/models/Furniture.sandbox.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/Furniture/sandbox/source_gen.caches/Furniture/sandbox/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/Furniture/sandbox/source_gen.caches/Furniture/sandbox/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/HTML.mpl" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/HTML.mpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/classes_gen/HTML/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/classes_gen/HTML/editor/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/classes_gen/HTML/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/classes_gen/HTML/structure/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/classes_gen/HTML/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/classes_gen/HTML/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/models/HTML.editor.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/models/HTML.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/models/HTML.structure.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/editor/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/editor/dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/editor/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/editor/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/structure/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/structure/dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/structure/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen.caches/HTML/structure/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/Language.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/editor/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/ConceptPresentationAspectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/LanguageConceptSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/LanguageConceptSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/StructureAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/StructureAspectDescriptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/structure/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HTML/source_gen/HTML/trace.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +15,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="1055813b-5c67-4ab5-9731-6acc0013af0c/r:e8b0dca2-0f25-4f52-a281-c04b2b9fb611(TempModule1055813b-5c67-4ab5-9731-6acc0013af0c/ConsoleModel_192313818229500)">
+            <model ref="73f4bffb-9508-4ea7-9284-104858c42254/r:abdb273e-e968-4c17-91d9-fb5c242837fd(TempModule73f4bffb-9508-4ea7-9284-104858c42254/ConsoleModel_195246056307100)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -69,11 +35,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="1BQ6mJB1sNL">
-                <node concept="3balQm" id="1BQ6mJB1sNM" role="aymYE" />
-                <node concept="2Clz$F" id="1BQ6mJB1sNN" role="aymYO" />
-                <node concept="2_V_lH" id="1BQ6mJB1sNO" role="1PhJh3">
-                  <ref role="2_V_lI" node="1BQ6mJB1sNN" resolve="CommandHolder" />
+              <node concept="aymSD" id="59MCPn6HMOX">
+                <node concept="3balQm" id="59MCPn6HMOY" role="aymYE" />
+                <node concept="2Clz$F" id="59MCPn6HMOZ" role="aymYO" />
+                <node concept="2_V_lH" id="59MCPn6HMP0" role="1PhJh3">
+                  <ref role="2_V_lI" node="59MCPn6HMOZ" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -201,7 +167,11 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ce78ae2c-db1f-49ad-bab2-413b7d7689f5(HTML)" />
+              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Furniture" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -216,6 +186,22 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="r:285fe51d-79ff-449d-8183-6d66216fc2ce(HTML.structure) in IdeaFile[path: D:/Repositories/Furniture_Workshop/languages/HTML/models/HTML.structure.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,27 +229,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="34533686-4345-4838-a5f2-98203d049c87" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Furniture" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="ce78ae2c-db1f-49ad-bab2-413b7d7689f5(HTML)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -303,6 +269,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\sawik\AppData\Roaming\Subversion</configuration>
@@ -343,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592051333353</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Save commit">
+      <created>1592052420161</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592052420161</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UsagesViewTool">
@@ -356,7 +331,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added HTML lang" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HTML lang" />
+    <MESSAGE value="Save commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Save commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2286" y="128" width="712" height="614" key="#MPSPropertiesConfigurable" timestamp="1592052042557">
@@ -367,14 +343,22 @@
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
     <state x="2767" y="495" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592050435442" />
-    <state x="2318" y="34" width="970" height="991" key="CommitChangelistDialog2" timestamp="1592051332775">
+    <state x="2318" y="34" width="970" height="991" key="CommitChangelistDialog2" timestamp="1592052419352">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state x="2318" y="34" width="970" height="991" key="CommitChangelistDialog2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592051332775" />
-    <state x="2537" y="309" key="Vcs.Push.Dialog.v2" timestamp="1592051339300">
+    <state x="2318" y="34" width="970" height="991" key="CommitChangelistDialog2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592052419352" />
+    <state x="2769" y="496" key="Github.CreateGistDialog" timestamp="1592052394839">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state x="2537" y="309" key="Vcs.Push.Dialog.v2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592051339300" />
+    <state x="2769" y="496" key="Github.CreateGistDialog/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592052394839" />
+    <state x="2453" y="221" key="SettingsEditor" timestamp="1592053677890">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2453" y="221" key="SettingsEditor/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592053677890" />
+    <state x="2537" y="309" key="Vcs.Push.Dialog.v2" timestamp="1592053344212">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2537" y="309" key="Vcs.Push.Dialog.v2/4480.0.1536.848/1920.0.2048.1112/0.0.1920.1040@1920.0.2048.1112" timestamp="1592053344212" />
     <state x="2456" y="257" key="jetbrains.mps.ide.ui.dialogs.properties.choosers.ChooserDialog" timestamp="1592052031065">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
